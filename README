@@ -1,23 +1,28 @@
+CSS3 Animation Library
+======================
 A css3 animation library used for simulating ppt transition.
 
-<h2>License</h2>
-<p>Copyright (c) 2011 http://zhouqicf.com<br>
-author: zhouqicf@gmail.com<br>
-version: 1.0.0<br>
-license: Released under the MIT License.</p>
+License
+-------
+Copyright (c) 2011 http://zhouqicf.com
+author: zhouqicf@gmail.com
+version: 1.0.0
+license: Released under the MIT License.
 
-<h2>Broswer support</h2>
-<p>firefox 5+ , Chrome , Safari</p>
+Broswer support
+---------------
+firefox 5+ , Chrome , Safari
 
-<h2>How to use?</h2>
-<h3>Step1:</h3>
-<p>insert the anim.css</p>
-<pre><code>&lt;link href="anim.css" rel="stylesheet"&gt;</code></pre>
-<h3>Step2:</h3>
-<p>Choice a animation with the help of builder. Get the code buy click the "get code" button. Then copy this code to your stylesheet. For examples:</p>
-<pre><code>
-selector{
-	-webkit-animation:k2-anim-fadeIn linear 2s 1;
-	-moz-animation:k2-anim-fadeIn linear 2s 1;
-}
-</code></pre>
+How to use?
+-----------
+###Step1:###
+insert the anim.css
+* &lt;link href="anim.css" rel="stylesheet"&gt;
+
+###Step2:###
+Choice a animation with the help of builder. Get the code buy click the "get code" button. Then copy this code to your stylesheet. For examples:
+
+* selector{
+* 	-webkit-animation:k2-anim-fadeIn linear 2s 1;
+* 	-moz-animation:k2-anim-fadeIn linear 2s 1;
+* }
