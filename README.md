@@ -17,12 +17,12 @@ How to use?
 -----------
 ###Step1:###
 insert the anim.css
-* &lt;link href="anim.css" rel="stylesheet"&gt;
+` &lt;link href="anim.css" rel="stylesheet"&gt;`
 
 ###Step2:###
 Choice a animation with the help of builder. Get the code buy click the "get code" button. Then copy this code to your stylesheet. For examples:
 
-* selector{
-* 	-webkit-animation:k2-anim-fadeIn linear 2s 1;
-* 	-moz-animation:k2-anim-fadeIn linear 2s 1;
-* }
+`selector{
+ 	-webkit-animation:k2-anim-fadeIn linear 2s 1;
+ 	-moz-animation:k2-anim-fadeIn linear 2s 1;
+}`
